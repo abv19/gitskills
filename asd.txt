@@ -2,3 +2,4 @@ i add it for checking the branch function
 now it's in the merge
 this a use for --no-ff
 now it's in the master for test stash
+now it's test for git stash
